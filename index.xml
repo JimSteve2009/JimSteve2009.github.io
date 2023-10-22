@@ -1,0 +1,33 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Yunjing&#39;s Blog</title>
+        <link>https://example.com/</link>
+        <description>Hugo theme - LoveIt</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 22 Oct 2023 21:42:11 &#43;0800</lastBuildDate>
+            <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>个人博客的搭建</title>
+    <link>https://example.com/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA/</link>
+    <pubDate>Sun, 22 Oct 2023 21:42:11 &#43;0800</pubDate>
+    <author>Yunjing Zhang</author>
+    <guid>https://example.com/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA/</guid>
+    <description><![CDATA[博客（Blog）对于理工科研工作者来说，能够提供一个分享/交流/学习的平台，值得花一些时间来建立自己的blog。我的博客搭建方案是Githu]]></description>
+</item>
+<item>
+    <title>推荐的微波技术相关学习网站</title>
+    <link>https://example.com/%E6%8E%A8%E8%8D%90%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99/</link>
+    <pubDate>Sun, 22 Oct 2023 20:27:15 &#43;0800</pubDate>
+    <author>Yunjing Zhang</author>
+    <guid>https://example.com/%E6%8E%A8%E8%8D%90%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99/</guid>
+    <description><![CDATA[关于雷达的学习网站： https://www.radartutorial.eu/index.en.html 国外一位技术牛人Henrik Forsten的博客，里面有关于便携型VNA、低成本FMCW radar及SAR radar等]]></description>
+</item>
+<item>
+    <title>微课-天线概论</title>
+    <link>https://example.com/%E5%BE%AE%E8%AF%BE%E5%A4%A9%E7%BA%BF%E6%A6%82%E8%AE%BA/</link>
+    <pubDate>Sat, 21 Oct 2023 19:39:42 &#43;0800</pubDate>
+    <author>Yunjing Zhang</author>
+    <guid>https://example.com/%E5%BE%AE%E8%AF%BE%E5%A4%A9%E7%BA%BF%E6%A6%82%E8%AE%BA/</guid>
+    <description><![CDATA[天线是无线电通讯系统中的必需组件。 自从赫兹实验证明了电磁波的存在，天线的发展在无线通信领域占有重要的地位。 本课程是我2年前为参加某微课比赛，]]></description>
+</item>
+</channel>
+</rss>
